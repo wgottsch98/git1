@@ -1,2 +1,3 @@
 # git1
-phys_494_Lab_1
+phys_434_Lab_1
+
